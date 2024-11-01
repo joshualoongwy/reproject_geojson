@@ -1,5 +1,5 @@
 # reproject_geojson
-This repository contains various scripts used to create/modify the boundaries files used for the MultiViz Wombling Project: https://github.com/jloo0021/wombling_experiment
+This repository contains various scripts used to create/modify the boundaries files used for the MultiViz Wombling Project: https://github.com/joshualoongwy/wombling_experiment
 
 These scripts need to be run locally, and with the appropriate source files. Therefore, some changes will need to be made to the script (e.g. the source file location on your device) to produce the intended results.
 
